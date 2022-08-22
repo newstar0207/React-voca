@@ -1,0 +1,170 @@
+{
+  "vocas": [
+    {
+      "id": 1,
+      "voca": "뉴다이나믹일본어STEP1과"
+    },
+    {
+      "id": 2,
+      "voca": "뉴다이나믹일본어STEP2과"
+    },
+    {
+      "id": 3,
+      "voca": "뉴다이나믹일본어STEP3과"
+    },
+    {
+      "id": 4,
+      "voca": "뉴다이나믹일본어STEP4과"
+    },
+    {
+      "id": 5,
+      "voca": "뉴다이나믹일본어STEP5과"
+    }
+  ],
+  "words": [
+    {
+      "id": 1,
+      "voca": 1,
+      "jap": "本",
+      "kor": "책「ほん」",
+      "isDone": false,
+      "isCheck": true
+    },
+    {
+      "id": 2,
+      "voca": 2,
+      "jap": "車",
+      "kor": "자동차「くるま」",
+      "isDone": true,
+      "isCheck": true
+    },
+    {
+      "id": 3,
+      "voca": 3,
+      "jap": "鉛筆",
+      "kor": "연필「えんぴつ」",
+      "isDone": true,
+      "isCheck": true
+    },
+    {
+      "id": 4,
+      "voca": 4,
+      "jap": "窓",
+      "kor": "창문「まど」",
+      "isDone": true,
+      "isCheck": true
+    },
+    {
+      "id": 5,
+      "voca": 5,
+      "jap": "飲み物",
+      "kor": "음료「のみもの」",
+      "isDone": true,
+      "isCheck": true
+    },
+    {
+      "id": 6,
+      "voca": 1,
+      "jap": "掃除",
+      "kor": "청소「そうじ」",
+      "isDone": true,
+      "isCheck": false
+    },
+    {
+      "id": 7,
+      "voca": 2,
+      "jap": "気に入る",
+      "kor": "마음에 들다「きにいる」",
+      "isDone": false,
+      "isCheck": false
+    },
+    {
+      "id": 8,
+      "voca": 3,
+      "jap": "さっき",
+      "kor": "아까, 좀전「さっき」",
+      "isDone": true,
+      "isCheck": false
+    },
+    {
+      "id": 9,
+      "voca": 4,
+      "jap": "暖房",
+      "kor": "난방「だんぼう」",
+      "isDone": false,
+      "isCheck": true
+    },
+    {
+      "id": 10,
+      "voca": 5,
+      "jap": "あく",
+      "kor": "열리다「あく」",
+      "isDone": false,
+      "isCheck": true
+    },
+    {
+      "id": 11,
+      "voca": 1,
+      "jap": "閉じる",
+      "kor": "닫히다「とじる」",
+      "isDone": true,
+      "isCheck": false
+    },
+    {
+      "id": 12,
+      "voca": 2,
+      "jap": "もう",
+      "kor": "이제「もう」",
+      "isDone": true,
+      "isCheck": false
+    },
+    {
+      "id": 13,
+      "voca": 3,
+      "jap": "冷蔵庫",
+      "kor": "냉장고「れいぞうこ」",
+      "isDone": true,
+      "isCheck": false
+    },
+    {
+      "id": 14,
+      "voca": 4,
+      "jap": "いれる",
+      "kor": "넣다「いれる」",
+      "isDone": true,
+      "isCheck": false
+    },
+    {
+      "id": 15,
+      "voca": 5,
+      "jap": "ておく",
+      "kor": "~해두다「ておく」",
+      "isDone": true,
+      "isCheck": false
+    },
+    {
+      "id": 16,
+      "voca": 1,
+      "jap": "野菜",
+      "kor": "야채「やさい」",
+      "isDone": false,
+      "isCheck": true
+    },
+    {
+      "id": 17,
+      "voca": 2,
+      "jap": "使う",
+      "kor": "사용하다「つかる」",
+      "isDone": false,
+      "isCheck": true
+    },
+    {
+      "jap": "パソコン",
+      "kor": "컴퓨터「パソコン」",
+      "isDone": false,
+      "voca": 6,
+      "isCheck": false,
+      "id": 18
+    }
+  ]
+}
